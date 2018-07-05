@@ -1,0 +1,6 @@
+framework module Pods_NSBE_CFPUITests {
+  umbrella header "Pods-NSBE-CFPUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

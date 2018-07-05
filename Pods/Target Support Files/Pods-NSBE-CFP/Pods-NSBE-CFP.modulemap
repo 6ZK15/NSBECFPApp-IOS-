@@ -1,0 +1,6 @@
+framework module Pods_NSBE_CFP {
+  umbrella header "Pods-NSBE-CFP-umbrella.h"
+
+  export *
+  module * { export * }
+}
